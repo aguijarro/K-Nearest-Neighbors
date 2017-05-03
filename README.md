@@ -1,6 +1,7 @@
 # KNN
 
-This repository consists of the implementation of K-Nearest Neighbors algorithm to solve a Classification problem.
+This repository consists of the implementation of K-Nearest Neighbors algorithm to solve a Classification problem.You can also view this repository through [Gitpages.](https://satishjasthi.github.io/K-Nearest-Neighbors/)
+
 
 ### Install
 
@@ -18,6 +19,28 @@ distribution of Python, which already has the above packages and more included. 
 or above and not the Python 2.x installer
 
 ### Getting started
+### About KNN:
+
+In pattern recognition, the k-nearest neighbors algorithm (k-NN) is a non-parametric method used for classification and regression.In both cases, the input consists of the k closest training examples in the feature space. The output depends on whether k-NN is used for classification or regression:
+
+- In k-NN classification, the output is a class membership. An object is classified by a majority vote of its neighbors, with the object being assigned to the class most common among its k nearest neighbors (k is a positive integer, typically small). If k = 1, then the object is simply assigned to the class of that single nearest neighbor.
+
+- In k-NN regression, the output is the property value for the object. This value is the average of the values of its k nearest neighbors.
+
+k-NN is a type of instance-based learning, or lazy learning, where the function is only approximated locally and all computation is deferred until classification. The k-NN algorithm is among the simplest of all machine learning algorithms.
+
+Both for classification and regression, it can be useful to assign weight to the contributions of the neighbors, so that the nearer neighbors contribute more to the average than the more distant ones. For example, a common weighting scheme consists in giving each neighbor a weight of 1/d, where d is the distance to the neighbor.
+
+The neighbors are taken from a set of objects for which the class (for k-NN classification) or the object property value (for k-NN regression) is known. This can be thought of as the training set for the algorithm, though no explicit training step is required.
+
+A shortcoming of the k-NN algorithm is that it is sensitive to the local structure of the data.[citation needed] The algorithm is not to be confused with k-means, another popular machine learning technique.
+
+**To know more about KNN you can go through these tutorials:**
+
+- (K-Nearest Neighbors for Machine Learning)[http://machinelearningmastery.com/k-nearest-neighbors-for-machine-learning/]
+- (Implement k-Nearest Neighbors in Python From Scratch)[http://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/]
+- (A Complete Guide to K-Nearest-Neighbors with Applications in Python and R)[https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/]
+
 
 #### Dataset
 
@@ -112,7 +135,6 @@ this README)
 Jupyter Notebook creates an instance in your browser with home directory as `KNN/`, you can run `Source.ipynb`
 by double clicking on it.
 
-### [GitPage](https://satishjasthi.github.io/K-Nearest-Neighbors/)
 
 
 

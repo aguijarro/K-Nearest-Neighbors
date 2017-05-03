@@ -112,7 +112,7 @@ this README)
 Jupyter Notebook creates an instance in your browser with home directory as `KNN/`, you can run `Source.ipynb`
 by double clicking on it.
 
-
+[### GitPage](https://satishjasthi.github.io/K-Nearest-Neighbors/)
 
 
 

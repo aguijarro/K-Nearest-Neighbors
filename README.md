@@ -37,9 +37,9 @@ A shortcoming of the k-NN algorithm is that it is sensitive to the local structu
 
 **To know more about KNN you can go through these tutorials:**
 
-- (K-Nearest Neighbors for Machine Learning)[http://machinelearningmastery.com/k-nearest-neighbors-for-machine-learning/]
-- (Implement k-Nearest Neighbors in Python From Scratch)[http://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/]
-- (A Complete Guide to K-Nearest-Neighbors with Applications in Python and R)[https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/]
+* [K-Nearest Neighbors for Machine Learning](http://machinelearningmastery.com/k-nearest-neighbors-for-machine-learning/)
+* [Implement k-Nearest Neighbors in Python From Scratch](http://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/)
+* [A Complete Guide to K-Nearest-Neighbors with Applications in Python and R](https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/)
 
 
 #### Dataset
